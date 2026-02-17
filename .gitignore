@@ -9,3 +9,7 @@ __pycache__/
 .idea/
 
 .gradio/
+
+*.db
+*.sqlite
+*.sqlite3
